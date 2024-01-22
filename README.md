@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Okonkwo Mac-Anthony</h1>
 <h3 align="center">A passionate Full stack developer from Nigeria  🇳🇬</h3>
 
-- 🔭 I’m currently working on **Gigi Store**
+- 🔭 I’m currently working on **Digi Store**
 
 - 🌱 I’m currently learning **Nextjs**
 
