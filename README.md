@@ -26,7 +26,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,php,git,react,redux,express,postman,nodejs,tailwind,docker,materialui,mongodb,matlab,jquery,kubernetes,gcp,mysql,vscode,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,php,git,react,redux,express,postman,nodejs,tailwind,docker,materialui,mongodb,matlab,jquery,kubernetes,gcp,mysql,vscode,webpack&perline=6)](https://skillicons.dev)
 
 <h3 align="left">Some Stats:</h3>
 
