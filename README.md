@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any project related to web design**
 
-- 👨‍💻 All of my projects will soon be available at [mac-anthony-dev.io](mac-anthony-dev.io)
+- 👨‍💻 All of my projects are available at [my website](macanthony.vercel.app)
 
 - 💬 Ask me about **Web development**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/okonkwo mac anthony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="okonkwo mac anthony" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/okonkwo-mac-anthony-2a33302290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="okonkwo mac anthony" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@marcson034" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@marcson034" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@marcson" target="blank"><img align="center" src="https://www.svgrepo.com/show/306170/hackerearth.svg" alt="HackerEarth badge" height="30" width="40" /></a>
 </p>
