@@ -26,11 +26,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,php,git,react,redux,express,postman,nodejs,tailwind,docker,materialui,mongodb,matlab,jquery,kubernetes,gcp,mysql,vscode,webpack&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,php,git,react,redux,express,postman,nodejs,tailwind,docker,nextjs,materialui,mongodb,matlab,jquery,kubernetes,gcp,mysql,vscode,webpack&perline=7)](https://skillicons.dev)
 
 <h3 align="left">Some Stats:</h3>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tony-dev0&count_private=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tony-dev0&show_icons=true)
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tony-dev0&hide=scss&layout=compact)
 
