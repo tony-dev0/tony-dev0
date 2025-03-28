@@ -30,7 +30,7 @@
 
 <h3 align="left">Some Stats:</h3>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tony-dev0&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tony-dev0&show_icons=true&count_private=true)
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tony-dev0&hide=scss&layout=compact)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tony-dev0&hide=scss&layout=compact&count_private=true)
 
