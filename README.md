@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning new **Web Technologies, Smart Automations and AI / ML**
 
-- 👯 I’m looking to collaborate on **any project related to web technologies**
+- 👯 I’m looking to collaborate on **any project related to Web technologies**
 
 - 👨‍💻 All of my projects are available at [my website](macanthony.vercel.app)
 
