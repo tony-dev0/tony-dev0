@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [my website](macanthony.vercel.app)
 
-- 💬 Ask me about **Web development**
+- 💬 Ask me anything about **Web development**
 
 - 📫 How to reach me **macanthony461@gmail.com**
 
