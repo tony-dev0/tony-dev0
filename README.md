@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any project related to Web technologies**
 
-- 👨‍💻 All of my projects are available at [my website](macanthony.vercel.app)
+- 👨‍💻 All of my projects are available on [my website](macanthony.vercel.app)
 
 - 💬 Ask me anything about **Web development**
 
