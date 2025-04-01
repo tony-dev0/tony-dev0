@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Okonkwo Mac-Anthony</h1>
 <h3 align="center">A passionate Full stack developer from Nigeria  🇳🇬</h3>
 
-- 🔭 I’m currently working on an **AI Trading Bot**
+- 🔭 I’m currently working on **Zigma AI Trading Bot**
 
 - 🌱 I’m currently learning new **Web Technologies, Smart Automations and AI / ML**
 
